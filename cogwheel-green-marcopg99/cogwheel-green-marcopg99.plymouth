@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cogwheel-green-marcopg99
+Description=...
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cogwheel-green-marcopg99
+ScriptFile=/usr/share/plymouth/themes/cogwheel-green-marcopg99/cogwheel-green-marcopg99.script
