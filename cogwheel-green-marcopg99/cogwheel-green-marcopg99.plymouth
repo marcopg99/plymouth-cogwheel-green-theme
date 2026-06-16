@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=cogwheel-green-marcopg99
-Description=...
+Description=Plymouth boot theme with an animated cogwheel and progress bar in green tones.
 ModuleName=script
 
 [script]
